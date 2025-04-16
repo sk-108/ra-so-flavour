@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+/* body {
+  background: rgb(244, 244, 244);
+} */
+
+body {
+  @apply bg-white dark:bg-gray-900 text-gray-900 dark:text-white;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+/* smooth transition for dark mode */
+* {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
