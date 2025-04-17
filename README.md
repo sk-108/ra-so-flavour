@@ -24,7 +24,7 @@ A React-based food delivery app with category filters, cart, favorites, and Fire
 ![Cart Page](assests/cart.png)
 
 ### ❤️ Favorites Page
-![Favorites Page](assets/favpage.png)
+![Favorites Page](assests/favpage.png)
 
 ### Feedback Page
 ![Cart Page](assests/feedback.png)
